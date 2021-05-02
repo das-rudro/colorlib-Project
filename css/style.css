@@ -436,6 +436,7 @@ profetional section
 .profetional-wrapper{
     width: 100%;
     background: #f5fbff;
+    overflow:hidden;
 }
 
 .col-md-6{
