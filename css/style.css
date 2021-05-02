@@ -488,7 +488,7 @@ comment section
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
-    padding: 90px 0px;
+    padding: 162px 0px;
     position: relative;
     width: 100%;
     z-index: 1;
@@ -534,6 +534,17 @@ comment section
     z-index: 1;
 }
 
+.banner-two-person{
+    width: 6%;
+    margin: 0 auto;
+}
+
+.banner-quote{
+    width: 8%;
+    margin: 0 auto;
+}
+
+
 
 
 
@@ -554,6 +565,11 @@ gallery section
 .gallery h1{
     font-size: 48px;
     margin-bottom: 56px;
+}
+
+
+.gallery-image{
+    margin-top: 10px;
 }
 
 
