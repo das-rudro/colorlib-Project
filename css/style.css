@@ -377,6 +377,7 @@ works section
 .works-text h1{
     font-size: 64px;
     line-height: 42px;
+    padding-bottom:38px;
 }
 
 .works-one-right{
